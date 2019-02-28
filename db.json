@@ -1,0 +1,24 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "This is a great stream",
+      "id": 1
+    },
+    {
+      "title": "Hi there ",
+      "description": "Ki obosta",
+      "id": 2
+    },
+    {
+      "title": "hhh",
+      "description": "hhh",
+      "id": 3
+    },
+    {
+      "title": "ByeBye",
+      "description": "lulu",
+      "id": 6
+    }
+  ]
+}
